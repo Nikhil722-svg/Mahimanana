@@ -1,0 +1,74 @@
+body{
+	background: url(heor-bg.png) no-repeat ;
+	background-size: 300px 150px;
+}
+.container-1{
+	display: flex;
+}
+.container-2{
+	padding-top: 15px;
+	width: 30px; 
+	height: 30px;
+}
+.container-3{
+	font-family: sans-serif;
+	color: #ffffff;
+	font-size: x-large;
+}
+.container-4{
+	padding-left: 500px;
+	color: #000000;
+	font-family: sans-serif;
+	text-decoration: none;
+}
+.container-5{
+	padding-left: 50px;
+	color: #000000;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+.container-6{
+	padding-left: 50px;
+	width: 20px; 
+	height: 20px;
+}
+.container-7{
+	text-align: center;
+	color: #191970;	
+	padding-top: 200px;
+	font-family: sans-serif;
+}
+.container-8{
+	color: rgb(80,80,80);
+	font-family: sans-serif;
+	text-align: center;
+}
+.container-9{
+	padding-left: 400px;
+}
+.container-10{
+	border: 2px solid #fec913;
+	background-color: #fec913;
+	border-radius: 20px;
+	display: flex;
+	width: 180px;
+	margin-top: 50px;
+	margin-left: 550px;
+}
+.container-11{
+	color: #000000;
+	text-decoration: none;
+	padding-left: 10px;
+}
+.container-12{
+	width: 15px;
+	height: 15px;
+	padding-left: 5px;
+	padding-top: 15px;
+}
+.container-13{
+	background-color: #191970;
+	color: #ffffff;
+	font-size: large;
+	text-align: center;
+}
